@@ -1,0 +1,5 @@
+{
+  "name": "ADR Manager MVP",
+  "description": "A professional Architecture Decision Record manager built with React, Supabase, and Tailwind. Features authentication, status tracking, and markdown rendering.",
+  "requestFramePermissions": []
+}
